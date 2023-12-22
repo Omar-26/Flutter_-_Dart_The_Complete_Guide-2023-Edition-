@@ -1,6 +1,6 @@
 # Flutter & Dart The Complete Guide [2023 Edition]
 
-![Image](https://github.com/Omar-26/Flutter_-_Dart_The_Complete_Guide-2023-Edition-/blob/main/Projects/00_images/readme_header.png?raw=true)
+![Image](https://github.com/Omar-26/Flutter_and_Dart_The_Complete_Guide_2023_Edition/blob/main/Projects/images/readme_header.png?raw=true)
 
 ## What's included in this repository?
 
@@ -8,8 +8,7 @@ This repository will contain my Course Work from the [Flutter & Dart The Complet
 
 ## Preview
 
-<img src="https://github.com/Omar-26/Flutter_-_Dart_The_Complete_Guide-2023-Edition-/blob/main/Projects/00_images/dice_app_preview.jpg?raw=true" height="300em" /><img src="https://github.com/Omar-26/Flutter_-_Dart_The_Complete_Guide-2023-Edition-/blob/main/Projects/00_images/dice_app_preview.jpg?raw=true" height="300em" /><img src="https://github.com/Omar-26/Flutter_-_Dart_The_Complete_Guide-2023-Edition-/blob/main/Projects/00_images/dice_app_preview.jpg?raw=true" height="300em" /><img src="https://github.com/Omar-26/Flutter_-_Dart_The_Complete_Guide-2023-Edition-/blob/main/Projects/00_images/dice_app_preview.jpg?raw=true" height="300em" /><img src="https://github.com/Omar-26/Flutter_-_Dart_The_Complete_Guide-2023-Edition-/blob/main/Projects/00_images/dice_app_preview.jpg?raw=true" height="300em" /><img src="https://github.com/Omar-26/Flutter_-_Dart_The_Complete_Guide-2023-Edition-/blob/main/Projects/00_images/dice_app_preview.jpg?raw=true" height="300em" />
-
+<img src="https://github.com/Omar-26/Flutter_and_Dart_The_Complete_Guide_2023_Edition/blob/main/Projects/images/dice_app_preview.jpg?raw=true" height="300em" /><img src="https://github.com/Omar-26/Flutter_and_Dart_The_Complete_Guide_2023_Edition/blob/main/Projects/images/dice_app_preview.jpg?raw=true" height="300em" /><img src="https://github.com/Omar-26/Flutter_and_Dart_The_Complete_Guide_2023_Edition/blob/main/Projects/images/dice_app_preview.jpg?raw=true" height="300em" /><img src="https://github.com/Omar-26/Flutter_and_Dart_The_Complete_Guide_2023_Edition/blob/main/Projects/images/dice_app_preview.jpg?raw=true" height="300em" /><img src="https://github.com/Omar-26/Flutter_and_Dart_The_Complete_Guide_2023_Edition/blob/main/Projects/images/dice_app_preview.jpg?raw=true" height="300em" /><img src="https://github.com/Omar-26/Flutter_and_Dart_The_Complete_Guide_2023_Edition/blob/main/Projects/images/dice_app_preview.jpg?raw=true" height="300em" />
 ________________
 
 ### Connect with me
