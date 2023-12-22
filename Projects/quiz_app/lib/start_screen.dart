@@ -42,7 +42,7 @@ class StartScreen extends StatelessWidget {
           OutlinedButton.icon(
             onPressed: startQuiz,
             style: OutlinedButton.styleFrom(
-              foregroundColor: const Color.fromARGB(255, 2, 0, 64),
+              foregroundColor: Color.fromARGB(255, 2, 0, 47),
               backgroundColor: Colors.white,
             ),
             icon: const Icon(Icons.quiz),
