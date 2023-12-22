@@ -1,4 +1,4 @@
-# adv_basics
+# quiz_app
 
 A new Flutter project.
 
