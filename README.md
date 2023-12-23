@@ -4,7 +4,7 @@
 
 ## What's included in this repository?
 
-> This repository will contain my Course Work from the [Flutter & Dart The Complete Guide [2023 Edition] ](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) Course that was created by Maximilian Schwarzmüller and presented by [Udemy](https://www.udemy.com/). In these Courses, I explored the fundamental concepts of [Flutter](https://flutter.dev/) and [Dart](https://dart.dev/) and learned how to make apps Using the flutter framework. The Course covered various topics to provide me with a comprehensive understanding of Flutter Development.
+> This repository will contain my Coursework from the [Flutter & Dart The Complete Guide [2023 Edition] ](https://www.udemy.com/course/learn-flutter-dart-to-build-ios-android-apps/) Course that was created by Maximilian Schwarzmüller and presented by‎ <a href="https://www.udemy.com/" target="_blank"> <img src="https://freelogopng.com/images/all_img/1683006915udemy-logo-white.png" height="20em" /></a>. In this Course, I explored the fundamental concepts of Flutter <a href="https://flutter.dev/" target="_blank"> <img src="https://storage.googleapis.com/cms-storage-bucket/0dbfcc7a59cd1cf16282.png" height="20em" /></a> & Dart <a href="https://dart.dev/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Dart_logo.png/900px-Dart_logo.png?20220718193800" height="20em" /></a> also learned how to make apps Using the flutter framework. The Course covered various topics to provide me with a comprehensive understanding of Flutter Development.
 
 ## Preview
 
